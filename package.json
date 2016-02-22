@@ -1,0 +1,23 @@
+{
+  "name": "heroku-lightning-demo",
+  "version": "1.0.0",
+  "description": "This is a demo application for Lightning Experience sandbox practicing.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdenhaanalonso/heroku-lightning-demo.git"
+  },
+  "author": "Ricardo den Haan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdenhaanalonso/heroku-lightning-demo/issues"
+  },
+  "homepage": "https://github.com/rdenhaanalonso/heroku-lightning-demo#readme",
+  "dependencies": {
+    "@salesforce-ux/design-system": "^0.12.2",
+    "express": "^4.13.4"
+  }
+}
